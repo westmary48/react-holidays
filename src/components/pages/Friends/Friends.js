@@ -6,7 +6,7 @@ class Friends extends React.Component {
   render() {
     return (
       <div className="Friends">
-        <h3>New Friend Page</h3>
+        <h3>Friend Page</h3>
       </div>
     );
   }
