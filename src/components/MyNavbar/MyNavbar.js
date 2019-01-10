@@ -44,7 +44,7 @@ class MyNavbar extends React.Component {
             <NavLink tag={RRNavLink} to='/holidays'><i className="fas fa-lights-holiday fa-2x"></i></NavLink>
           </NavItem>
           <NavItem>
-            <NavLink tag={RRNavLink} to='//holidays/new'><i className="fas fa-comments fa-2x"></i></NavLink>
+            <NavLink tag={RRNavLink} to='/holidays/new'><i className="fas fa-comments fa-2x"></i></NavLink>
           </NavItem>
           <NavItem>
             <NavLink onClick={logoutClickEvent}>Logout</NavLink>
